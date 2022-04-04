@@ -11,11 +11,9 @@ You will need to purchase a domain through a registrar like [Namecheap](https://
 <br>
 **DO NOT USE GODADDY**
 
-
-
 *GoDaddy has a fundimental flaw in their DNS configurations.*
 
-If you already own a domain you can go ahead and use that for Noclip. -->
+If you already own a domain you can go ahead and use that for Noclip.
 
 ---
 
