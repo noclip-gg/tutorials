@@ -7,11 +7,15 @@
 
 ## Purchasing a domain
 
-You will need to purchase a domain through a registrar like [Namecheap](https://namecheap.com/) or [PorkBun](https://porkbun.com/).
+You will need to purchase a domain through a registrar like [Namecheap](https://namecheap.pxf.io/noclip/) or [PorkBun](https://porkbun.com/).
 <br>
-*You can use GoDaddy though it is not recommended.*
+**DO NOT USE GODADDY**
 
-If you already own a domain you can go ahead and use that for Noclip.
+
+
+*GoDaddy has a fundimental flaw in their DNS configurations.*
+
+If you already own a domain you can go ahead and use that for Noclip. -->
 
 ---
 
@@ -74,6 +78,8 @@ ns3.digitalocean.com
 ## Support
 
 Support is provided by the community in the Noclip Discord server. You can join that [here](https://physgun.com/discord)
+<br>
+Make sure to accept the rules, you won't be able to chat if you don't.
 
 ## Cloudflare
 
