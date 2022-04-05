@@ -71,6 +71,15 @@ ns3.digitalocean.com
 ```
 ^ `ns` referrs to nameserver, you can find more information about nameservers [here](https://www.cloudflare.com/en-gb/learning/dns/dns-records/dns-ns-record/).
 
+## Domain Integration
+
+Once you've claimed your domain on the Noclip settings pane and congigured the DNS records for it, it will point to Noclip however, it will be a redirect to `your-forum.noclip.me` as you need to request your domain to be fully integrated by Noclip staff.
+
+This can be done via the Discord.
+You require the Rainbow rank to view the required channel, if you do not have this role you need to ask for it. (You will be asked to attach a link to your Noclip profile)
+
+Once you have the Rainbow rank you will need to go the to #domain-request channel and send a message with your domain name in the format of `mydomain.com`.
+
 # Troubleshooting & More Info
 
 ## Support
