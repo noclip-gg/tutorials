@@ -23,3 +23,9 @@ Put either the 32-bit or 64-bit ID in the `Steam Group ID` field and click `Upda
 ## Final product
 
 If you have done everything correctly, on the front of your forum page there should be a widget on the right hand side showing the members and description of your group, along side a link to your Steam group.
+
+---
+
+## Support
+
+If you encounter any problems with the Steam group widget or wish to get some assistance please ask in our Discord [here](https://physgun.com/discord).
