@@ -1,5 +1,5 @@
 # Adding a domain to Noclip
-<img src='https://i.imgur.com/l4QcLFe.png' alt='Noclip Logo' width=64px>
+<img src='https://i.imgur.com/UtQ8Vd2.png' alt='Noclip Logo' width=64px>
 
 **Requirements:**
 - You **must** own a domain or be ready or purchase a domain through a registrar.
