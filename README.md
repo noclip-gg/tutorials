@@ -18,8 +18,17 @@ This will add a widget to your forum that will show your group's members and a j
 
 ## Discord Invite
 
-
 ## Discord OAuth (sign in)
 
+Does your community primarily use Discord or would you like to allow users to log in with Discord. Noclip allows users to log into the forums with Discord if you have enabled and configured it.
+
+**You can read how to do that [here](Discord%20OAuth.md).**
+
 ---
+
+## Support
+
+You can get support for all of these topics and more in the Discord, just ask.
+Join [here](https://physgun.com/discord).
+
 Images and vidoes are not currently available and will be created in the future after the UI overhaul is complete.

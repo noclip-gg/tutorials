@@ -30,4 +30,4 @@ Copy the redirection URL noclip provides you and go back to the Discord applicat
 
 ## Support
 
-If you encounter any problems with the Steam group widget or wish to get some assistance please ask in our Discord [here](https://physgun.com/discord).
+If you encounter any problems with setting up or configuring Discord sign in get some assistance please ask in our Discord [here](https://physgun.com/discord).
