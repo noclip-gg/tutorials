@@ -104,7 +104,7 @@ Make sure to accept the rules, you won't be able to chat if you don't.
 If you are using Cloudflare for your domain for DDOS protection you **MUST** disable Cloudflare's protection for the DNS record Noclip will be accesible via.
 
 You can do this by switching `Proxy status` to the disabled position.
-<img src='https://i.imgur.com/Ykj3wXj.png' alt='Cloudflare DNS Dashboard with Noclip CNAME' width=550px>
+<img src='https://i.imgur.com/p037xSK.png' alt='Cloudflare DNS Dashboard with Noclip CNAME' width=550px>
 
 ## GoDaddy
 
