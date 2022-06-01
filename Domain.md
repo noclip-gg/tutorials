@@ -3,7 +3,7 @@
 
 **Requirements:**
 - You **must** own a domain or be ready or purchase a domain through a registrar.
-- You need to either have [Noclip Rainbow](https://noclip.me/upgrade) or be a [Noclip partner](https://noclip.me/partners).
+- You need to either have [Noclip Rainbow](https://noclip.me/upgrade) or be a [Noclip Chroma](https://noclip.me/chroma).
 
 ## Purchasing a domain
 
@@ -47,7 +47,13 @@ For Namecheap it is under `Account -> Dashboard -> Manage -> Advanced DNS`.
 <br>
 For PorkBun it is under `Domain Management -> Details -> DNS Records`.
 
-Once you're here you will need to create the record for the (sub-)domain that you'd like, the route/host will be `@` and the target/address will be `noclip-bohbc.ondigitalocean.app.`
+Once you're here you will need to create the record for the domain (or sub-domain) that you'd like.
+
+Please make an `A` Record following the code below:
+```
+Type  Name  Value
+A     @     76.76.21.21
+```
 
 Each registrars panel may differ from anothers, please make sure to look around and check their support articles. 
 
@@ -65,9 +71,8 @@ This allows Noclip to fully control your domain and add and remove [records](htt
 5. Enjoy 🙂
 
 ```
-ns1.digitalocean.com
-ns2.digitalocean.com
-ns3.digitalocean.com
+ns1.vercel-dns.com
+ns2.vercel-dns.com
 ```
 ^ `ns` referrs to nameserver, you can find more information about nameservers [here](https://www.cloudflare.com/en-gb/learning/dns/dns-records/dns-ns-record/).
 
