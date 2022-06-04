@@ -35,7 +35,15 @@ There are 2 ways to add a domain to Noclip, you can either change your Nameserve
 
 This guide assumes you're not using Cloudflare, if you are follow the additional instructions below.
 
-### CNAME
+### How do I make a sub-domain like forums.abc.com?
+Follow the A record below, but instead of making an `A` Record, please make a CNAME record as shown below:
+```
+Type  Name   Value
+CNAME forums cname.vercel-dns.com
+```
+
+
+### A RECORD
 
 Via your DNS control panel you can set records specifying your domain to point to Noclip, this is a CNAME record. You can optionally read about CNAME records [here](https://www.cloudflare.com/en-gb/learning/dns/dns-records/dns-cname-record/).
 
