@@ -24,7 +24,7 @@ On your Discord application configuration page navigate to OAuth2; under the gen
 
 Login to your forums on your administrator account, navigate to your Dashbord, then to `Settings` then `Social`, at the bottom of the page there will be forms for you to fill in your Discord applications OAuth information. Fill it in with the Client ID and Client Secret you got from Discord.
 
-Copy the redirection URL noclip provides you and go back to the Discord application portal then add a Redirect under the OAuth2 tab and save.
+Go back to the Discord application portal then enter (yourdomain/oauth/discord/callback) in the Redirect area under the OAuth2 tab and save.
 
 ---
 
