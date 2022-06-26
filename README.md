@@ -27,7 +27,7 @@ Does your community primarily use Discord or would you like to allow users to lo
 ## Store Linking
 
 Using Noclip's donation store? Not sure on how to link it? Then you have came to the right place.
-This will allow your donation store to grant users within your community packages in-game automatically.
+This will allow your noclip store to grant users within your community packages in-game automatically.
 
 **You can read how to do that [here](Steam%20Group.md).**
 
