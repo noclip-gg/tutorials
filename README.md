@@ -24,6 +24,13 @@ Does your community primarily use Discord or would you like to allow users to lo
 
 **You can read how to do that [here](Discord%20OAuth.md).**
 
+## Store Linking
+
+Using Noclip's donation store? Not sure on how to link it? Then you have came to the right place.
+This will allow your donation store to grant users within your community packages in-game automatically.
+
+**You can read how to do that [here](Steam%20Group.md).**
+
 ---
 
 ## Support
