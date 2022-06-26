@@ -13,7 +13,7 @@ Picture step by step: (Will be added Soon)
 ## Download the Store File [here](https://github.com/noclip-gg/noclip-donation-gmod).
 
 Once you have downloaded the noclip-donation-gmod, you will need to upload it via FileZilla or WinSCP.
-Once uploaded via FTP you can now config the addon, please go to the following file locaion (noclip-donation-gmod-1.1.2\lua\noclip_store\config).
+Once uploaded via FTP you can now config the addon, please go to the following file location (noclip-donation-gmod-1.1.2\lua\noclip_store\config).
 
 ## Setting up the sv_config file.
 
@@ -23,10 +23,10 @@ then scroll all the way down to the bottom, copy then paste your API key in the 
 Then you will need the URL to your community. Ensure there is no trailing "/", copy your community URL and replace "https://mycommunity.noclip.me" 
 with your own URL. 
 
-Next you will need your "ServerID". to find this please go to https://mycommunity.noclip.me/admin/servers, make sure you have created a server,
-when you have created your server you will see the "ID" please copy and past your server ID here NoClip.Store.Config.ServerID = "YOURID"
+Next, you will need your "ServerID". to find this please go to https://mycommunity.noclip.me/admin/servers, make sure you have created a server,
+when you have created your server you will see the "ID" please copy and paste your server ID here NoClip.Store.Config.ServerID = "YOURID"
 
-The next few steps are completly your choice, please make sure not to set the Store.Config.Check too less as this may cause lag.
+The next few steps are completely your choice, please make sure not to set the Store.Config.Check too less as this may cause lag.
 
 ## Setting up the sh_language file and cl_config.
 
