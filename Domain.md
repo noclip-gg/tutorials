@@ -108,7 +108,7 @@ Ensure that you've set your forum to use this domain.
 
 ## Support
 
-Support is provided by the community in the Noclip Discord server. You can join that [here](https://physgun.com/discord)
+Support is provided by the community in the Noclip Discord server. You can join that [here](https://discord.gg/xtrSJ4fD2z)
 <br>
 Make sure to accept the rules, you won't be able to chat if you don't.
 
