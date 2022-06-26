@@ -8,7 +8,7 @@ Linking your Noclip Store to your Garry's Mod server will automatically allow us
 - Access to the Store settings (Inside your Noclip Dashboard)
 - FTP File Access to upload the Gmod Files
 
-Picture step by step: [here]().
+Picture step by step: (Will be added Soon)
 
 ## Download the Store File [here](https://github.com/noclip-gg/noclip-donation-gmod).
 
@@ -28,7 +28,7 @@ when you have created your server you will see the "ID" please copy and past you
 
 The next few steps are completly your choice, please make sure not to set the Store.Config.Check too less as this may cause lag.
 
-##Setting up the sh_language file and cl_config.
+## Setting up the sh_language file and cl_config.
 
 These two files do not require any setup but you can edit anything here to match your country's language or to change the colour of the donation notification.
 
@@ -37,4 +37,4 @@ These two files do not require any setup but you can edit anything here to match
 
 ## Support
 
-If you encounter any problems with setting up or configuring Discord sign in get some assistance please ask in our Discord [here](https://physgun.com/discord).
+If you encounter any problems with setting up, please join our Discord [here](https://physgun.com/discord).
