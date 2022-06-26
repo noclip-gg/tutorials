@@ -28,4 +28,4 @@ If you have done everything correctly, on the front of your forum page there sho
 
 ## Support
 
-If you encounter any problems with the Steam group widget or wish to get some assistance please ask in our Discord [here](https://physgun.com/discord).
+If you encounter any problems with the Steam group widget or wish to get some assistance please ask in our Discord [here](https://discord.com/invite/xtrSJ4fD2z).
