@@ -30,4 +30,4 @@ Go back to the Discord application portal then enter (yourdomain/oauth/discord/c
 
 ## Support
 
-If you encounter any problems with setting up or configuring Discord sign in get some assistance please ask in our Discord [here](https://physgun.com/discord).
+If you encounter any problems with setting up or configuring Discord sign in get some assistance please ask in our Discord [here](https://discord.gg/xtrSJ4fD2z).
