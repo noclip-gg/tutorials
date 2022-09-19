@@ -31,16 +31,8 @@ Your vanity domain **can** be a subdomain, like `forum.example.com`.
 
 ## Domain Configuration
 
-There are 2 ways to add a domain to Noclip, you can either change your Nameservers via your domain control panel or your can create a CNAME record via your DNS settings.
 
 This guide assumes you're not using Cloudflare, if you are follow the additional instructions below.
-
-### How do I make a sub-domain like forums.abc.com?
-Follow the A record below, but instead of making an `A` Record, please make a CNAME record as shown below:
-```
-Type  Name   Value
-CNAME forums cname.vercel-dns.com
-```
 
 
 ### A RECORD
@@ -60,29 +52,17 @@ Once you're here you will need to create the record for the domain (or sub-domai
 Please make an `A` Record following the code below:
 ```
 Type  Name  Value
-A     @     76.76.21.21
+A     @     168.220.83.254
+AAA   @     2a09:8280:1::6:6235
 ```
 
-Each registrars panel may differ from anothers, please make sure to look around and check their support articles. 
-
-### Nameservers
-
-Via your domains control panel, you can change the nameservers of your domain.
-This allows Noclip to fully control your domain and add and remove [records](https://www.cloudflare.com/learning/dns/dns-records/).
-<br/>
-**YOU WILL NOT BE ABLE TO CONTROL INDIVIDUAL RECORDS | NOCLIP WILL HAVE FULL CONTROL**
-
-1. Navigate to your domains control panel. (Namecheap's website for example)
-2. Locate the section which manages your nameservers.
-3. **Replace** your existing nameservers with the ones provided below.
-4. Wait for your domain to be added by Noclip staff. (This may take some time)
-5. Enjoy 🙂
+OR
 
 ```
-ns1.vercel-dns.com
-ns2.vercel-dns.com
+Type  Name  Value
+A     forums     168.220.83.254
+AAA   forums     2a09:8280:1::6:6235
 ```
-^ `ns` referrs to nameserver, you can find more information about nameservers [here](https://www.cloudflare.com/en-gb/learning/dns/dns-records/dns-ns-record/).
 
 ## Domain Integration
 
@@ -99,7 +79,7 @@ Once you have the Rainbow rank you will need to go the to #domain-request channe
 
 example message: 
 ```
-example.com | Nameserver method
+example.com | DNS
 ```
 
 Ensure that you've set your forum to use this domain.
@@ -121,4 +101,4 @@ You can do this by switching `Proxy status` to the disabled position.
 
 ## GoDaddy
 
-If the CNAME for Noclip doesn't work and you're using GoDaddy as your registrar this is due to GoDaddy's DNS settings. To get around this you can use the Nameserver method or use an external DNS provider like Cloudflare.
+If the CNAME for Noclip doesn't work and you're using GoDaddy as your registrar this is due to GoDaddy's DNS settings. To get around this you can use an external DNS provider like Cloudflare.
